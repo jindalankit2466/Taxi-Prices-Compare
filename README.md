@@ -1,2 +1,2 @@
-# Taxi-Prices-Compare
+# Taxi-Prices-Compares
 Taxi compare app
